@@ -5,7 +5,7 @@ Used Single variable Linear Regression, to estimate profits of food truck with r
 
 Best fit for h= theta0 + theta1 * X
 
-![picture](.../linear_regressionPlot.png)
+![picture](LinearRegression/linear_regressionPlot.png)
 
 
 

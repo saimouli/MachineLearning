@@ -55,6 +55,31 @@ lambda={0; 0:001; 0:003; 0:01; 0:03; 0:1; 0:3; 1; 3; 10}, array of lamda values 
 
 From the graph best lambda is 3
 
+# Gaussian Kernel (linear and non-linear) and Spam classifier
+
+Plotting data set 
+
+![alt text](img/dataplot1.jpg "c=1")
+
+After  applying SVM linear kernel
+![alt text](img/linearkernel.jpg "c=1")
+
+Non-linear Dataset 
+![alt text](img/non-lineardata.jpg )
+
+After applying gaussian kernel
+![alt text](img/gaussiankernalboundary.jpg )
+
+Mixed dataset 
+![alt text](img/mixeddataset3.jpg )
+
+After allocating C and Sigma a range of 8 values by a factor of 10. Used two for loops to select min error vlaues for C and Sigma and used in guassian SVM kernel and got the boundary (img show below)
+
+![alt text](img/guassiankernelboundary2.jpg)
+
+
+
+
 
 
 

@@ -78,7 +78,15 @@ After allocating C and Sigma a range of 8 values by a factor of 10. Used two for
 ![alt text](img/guassiankernelboundary2.jpg)
 
 
+# Multivariate Gaussian model 
+Plotting the data set 
+![alt text](img/dataset.jpg)
 
+After computing mu and variance and calculating the probability, fitted a gaussian model
+![alt text](img/guassianfit.jpg)
+
+Using F scores, selected a constant c with the help of ground truth. If P<c, circle anamolies 
+![alt text](img/anamolies.jpg)
 
 
 
